@@ -6,7 +6,7 @@ Politika privatnosti za Bible Bot
 Datum stupanja na snagu: 16.07.2024.
 
 1. Uvod
-Dobrodošli u politiku privatnosti Bible Bot-a. Aplikacija objavljuje linkove na zid Facebook-a.
+Dobrodošli u politiku privatnosti Bible Bot-a.
 
 2. Koje podatke prikupljamo?
    Ne prikupljamo podatke.
@@ -15,4 +15,4 @@ Dobrodošli u politiku privatnosti Bible Bot-a. Aplikacija objavljuje linkove na
    Ne koristimo podatke.
    
 4. Deljenje vaših podataka
-   Ne dijlimo Vaše podatke.
+   Ne dijelimo Vaše podatke.
